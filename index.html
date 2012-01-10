@@ -1,29 +1,68 @@
 <!DOCTYPE html lang="en">
 <html>
 	<head>
-		<title>Index</title>
+			<title>Index</title>
+		<style type="text/css">
+		
+		p#socialicons img{ /* 1st set of icons. Rotate them 360deg onmouseover and out */
+			-moz-transition: all 0.8s ease-in-out;
+			-webkit-transition: all 0.8s ease-in-out;
+			-o-transition: all 0.8s ease-in-out;
+			-ms-transition: all 0.8s ease-in-out;
+			transition: all 0.8s ease-in-out;
+		}
+
+		p#socialicons img:hover{
+			-moz-transform: rotate(360deg);
+			-webkit-transform: rotate(360deg);
+			-o-transform: rotate(360deg);
+			-ms-transform: rotate(360deg);
+			transform: rotate(360deg);
+		}
+
+		p#socialicons2 img{ /* 2nd set of icons. Rotate them 60deg onmouseover and out */
+			-moz-transition: all 0.2s ease-in-out;
+			-webkit-transition: all 0.2s ease-in-out;
+			-o-transition: all 0.2s ease-in-out;
+			-ms-transition: all 0.2s ease-in-out;
+			transition: all 0.2s ease-in-out;
+		}
+
+		p#socialicons2 img:hover{
+		-moz-transform: rotate(70deg);
+		-webkit-transform: rotate(70deg);
+		-o-transform: rotate(70deg);
+		-ms-transform: rotate(70deg);
+		transform: rotate(70deg);
+		}
+
+		p#socialicons3 img{ /* 3rd set of icons. Rotate them -360deg onmouseover ONLY. Note where the "transition prop is added */
+		}
+
+		p#socialicons3 img:hover { 
+			-moz-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			transition: all 0.5s ease-in-out;
+			-moz-transform: rotate(-360deg);
+			-webkit-transform: rotate(-360deg);
+			-o-transform: rotate(-360deg);
+			-ms-transform: rotate(-360deg);
+			transform: rotate(-360deg);
+		}
+		
+		</style>
 			<link rel="stylesheet" href="./css/all.css" type="text/stylesheet">
 				<script src="./js/jquery.js"></script>
 				
 	</head>
 	<body>
 	
-		<div id="maincontainer">
+			<p><b>360 degree spin onMouseover and onMouseout</b></p>
 
-		<div id="topsection"><div class="innertube">
-			<h1>CSS Fixed Layout #2.1- (Fixed-Fixed)</h1>
-		</div>
-	</div>
-
-	<div id="contentwrapper">
-
-		<div id="contentcolumn">
-	
-			<div class="innertube">
-				<b>Content Column: <em>Fixed</em></b>
-				<p><b>360 degree spin onMouseover and onMouseout</b></p>
-
-		<p id="socialicons">
+		
+<p id="socialicons">
 			<a href="index.html">
 				<img border="0" src="./img/rss.png" /></a>
 			<a href="index.html">
@@ -64,31 +103,7 @@
 				<img border="0" src="./img/twitter.png" /></a>
 			<a href="index.html">
 				<img border="0" src="./img/yahoo.png" /></a>
-		</p>
-				<script type="text/javascript">
-					filltext(45)
-				</script>
-			</div>
-	
-		</div>
-
-	</div>
-
-	<div id="leftcolumn">
-
-		<div class="innertube">
-			<b>Left Column: <em>200px</em></b>
-				<p><a href="index.html" alt="#" title="#"></a></p>
-				<p><a href="index.html" alt="#" title="#"></a></p>
-		</div>
-	
-	</div>
-
-	<div id="footer">
-		<a href="http://www.dynamicdrive.com/style/">Dynamic Drive CSS Library</a>
-	</div>
-
-		</div>
+		</p> 
 		
 	</body>
 </html>

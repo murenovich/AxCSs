@@ -5,6 +5,7 @@
 	<key>HierarchyData</key>
 	<array>
 		<string>3A1051E9-7082-4650-B464-831638F0DB5A</string>
+		<string>E35E5A89-D259-417B-9BF9-EC1ABAB893DD</string>
 		<string>60A83102-1A65-482A-80EC-65074584F6AE</string>
 	</array>
 	<key>ProjectItems</key>
@@ -74,6 +75,38 @@
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
+		</dict>
+		<key>E35E5A89-D259-417B-9BF9-EC1ABAB893DD</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFOAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADLIEyzSCsAAAAivZcGUkVBRE1FAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAACCJGMsxKFcAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABUF4Q1NzAAAQAAgA
+				AMsgkwMAAAARAAgAAMsxbqcAAAABABAAIr2XAAn42QAJ
+				t6sAAADpAAIALFJvQXI6QXBwbGljYXRpb25zOgBBTVBQ
+				UzoAd3d3OgBBeENTczoAUkVBRE1FAA4ADgAGAFIARQBB
+				AEQATQBFAA8ACgAEAFIAbwBBAHIAEgAjQXBwbGljYXRp
+				b25zL0FNUFBTL3d3dy9BeENTcy9SRUFETUUAABMAAS8A
+				//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Applications/AMPPS/www/AxCSs/README</string>
+				<key>RelativePath</key>
+				<string>../README</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>README</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
 		</dict>
 	</dict>
 	<key>com.barebones.DocumentFormatVersion</key>
