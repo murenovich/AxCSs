@@ -5,15 +5,124 @@
 	<key>EmbeddedEditorHidden:murenovich</key>
 	<false/>
 	<key>ExpandedEditorWidth:murenovich:displays([(0, 0), (1920, 1080)])</key>
-	<integer>884</integer>
+	<integer>1299</integer>
 	<key>ExpandedItems:murenovich</key>
 	<array>
 		<string>3A1051E9-7082-4650-B464-831638F0DB5A</string>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAFCAAIAAQRSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAivZcDY3NzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACK6
+			BMsxM48AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABUF4
+			Q1NzAAAQAAgAAMsgkwMAAAARAAgAAMsxed8AAAABABAAIr2XAAn4
+			2QAJt6sAAADpAAIAKVJvQXI6QXBwbGljYXRpb25zOgBBTVBQUzoA
+			d3d3OgBBeENTczoAY3NzAAAOAAgAAwBjAHMAcwAPAAoABABSAG8A
+			QQByABIAIEFwcGxpY2F0aW9ucy9BTVBQUy93d3cvQXhDU3MvY3Nz
+			ABMAAS8A//8AAA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAE+AAIAAQRSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAivZcCanMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACK6
+			CssxM5QAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABUF4
+			Q1NzAAAQAAgAAMsgkwMAAAARAAgAAMsxeeQAAAABABAAIr2XAAn4
+			2QAJt6sAAADpAAIAKFJvQXI6QXBwbGljYXRpb25zOgBBTVBQUzoA
+			d3d3OgBBeENTczoAanMADgAGAAIAagBzAA8ACgAEAFIAbwBBAHIA
+			EgAfQXBwbGljYXRpb25zL0FNUFBTL3d3dy9BeENTcy9qcwAAEwAB
+			LwD//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/js/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<string>60A83102-1A65-482A-80EC-65074584F6AE</string>
 	</array>
 	<key>FileFilterID:murenovich</key>
 	<string>msng</string>
 	<key>OpenDocuments:murenovich</key>
 	<array>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAFcAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAiugQHYWxsLmNzcwAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACL0
+			RMsxPj5URVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAA2Nz
+			cwAAEAAIAADLIJMDAAAAEQAIAADLMYSOAAAAAQAUACK6BAAivZcA
+			CfjZAAm3qwAAAOkAAgAyUm9BcjpBcHBsaWNhdGlvbnM6AEFNUFBT
+			OgB3d3c6AEF4Q1NzOgBjc3M6AGFsbC5jc3MADgAQAAcAYQBsAGwA
+			LgBjAHMAcwAPAAoABABSAG8AQQByABIAKEFwcGxpY2F0aW9ucy9B
+			TVBQUy93d3cvQXhDU3MvY3NzL2FsbC5jc3MAEwABLwD//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/all.css</string>
+			<key>RelativePath</key>
+			<string>../css/all.css</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAFqAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAiugQKbGF5b3V0LmNzcwAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACLz
+			d8sxPeJURVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAA2Nz
+			cwAAEAAIAADLIJMDAAAAEQAIAADLMYQyAAAAAQAUACK6BAAivZcA
+			CfjZAAm3qwAAAOkAAgA1Um9BcjpBcHBsaWNhdGlvbnM6AEFNUFBT
+			OgB3d3c6AEF4Q1NzOgBjc3M6AGxheW91dC5jc3MAAA4AFgAKAGwA
+			YQB5AG8AdQB0AC4AYwBzAHMADwAKAAQAUgBvAEEAcgASACtBcHBs
+			aWNhdGlvbnMvQU1QUFMvd3d3L0F4Q1NzL2Nzcy9sYXlvdXQuY3Nz
+			AAATAAEvAP//AAA=
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/layout.css</string>
+			<key>RelativePath</key>
+			<string>../css/layout.css</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAFiAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAiugQIc3Bpbi5jc3MAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACLr
+			7MsxPAJURVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAA2Nz
+			cwAAEAAIAADLIJMDAAAAEQAIAADLMYJSAAAAAQAUACK6BAAivZcA
+			CfjZAAm3qwAAAOkAAgAzUm9BcjpBcHBsaWNhdGlvbnM6AEFNUFBT
+			OgB3d3c6AEF4Q1NzOgBjc3M6AHNwaW4uY3NzAAAOABIACABzAHAA
+			aQBuAC4AYwBzAHMADwAKAAQAUgBvAEEAcgASAClBcHBsaWNhdGlv
+			bnMvQU1QUFMvd3d3L0F4Q1NzL2Nzcy9zcGluLmNzcwAAEwABLwD/
+			/wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/spin.css</string>
+			<key>RelativePath</key>
+			<string>../css/spin.css</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>AliasData</key>
 			<data>
@@ -39,21 +148,45 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAFkAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
-			IEyzSCsAAAAiugQJc3R5bGUuY3NzAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACK6
-			QcsxM7ZURVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAA2Nz
-			cwAAEAAIAADLIJMDAAAAEQAIAADLMXoGAAAAAQAUACK6BAAivZcA
-			CfjZAAm3qwAAAOkAAgA0Um9BcjpBcHBsaWNhdGlvbnM6AEFNUFBT
-			OgB3d3c6AEF4Q1NzOgBjc3M6AHN0eWxlLmNzcwAOABQACQBzAHQA
-			eQBsAGUALgBjAHMAcwAPAAoABABSAG8AQQByABIAKkFwcGxpY2F0
-			aW9ucy9BTVBQUy93d3cvQXhDU3MvY3NzL3N0eWxlLmNzcwATAAEv
-			AP//AAA=
+			AAAAAAFwAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAiwfgHYWxsLmNzcwAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACLF
+			VMsxHlMAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABW9v
+			Y3NzAAAQAAgAAMsgkwMAAAARAAgAAMsxZKMAAAABABgAIsH4ACK6
+			BAAivZcACfjZAAm3qwAAAOkAAgA5Um9BcjpBcHBsaWNhdGlvbnM6
+			AEFNUFBTOgB3d3c6AEF4Q1NzOgBjc3M6AG9vY3NzOgBhbGwuY3Nz
+			AAAOABAABwBhAGwAbAAuAGMAcwBzAA8ACgAEAFIAbwBBAHIAEgAu
+			QXBwbGljYXRpb25zL0FNUFBTL3d3dy9BeENTcy9jc3Mvb29jc3Mv
+			YWxsLmNzcwATAAEvAP//AAA=
 			</data>
 			<key>FileURL</key>
-			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/style.css</string>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/oocss/all.css</string>
 			<key>RelativePath</key>
-			<string>../css/style.css</string>
+			<string>../css/oocss/all.css</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGiAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL
+			IEyzSCsAAAAiwksNdGVtcGxhdGUuaHRtbAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACLC
+			TcsxHlMAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACHRl
+			bXBsYXRlABAACAAAyyCTAwAAABEACAAAyzFkowAAAAEAHAAiwksA
+			IsH4ACK6BAAivZcACfjZAAm3qwAAAOkAAgBJUm9BcjpBcHBsaWNh
+			dGlvbnM6AEFNUFBTOgB3d3c6AEF4Q1NzOgBjc3M6AG9vY3NzOgB0
+			ZW1wbGF0ZToAdGVtcGxhdGUuaHRtbAAADgAcAA0AdABlAG0AcABs
+			AGEAdABlAC4AaAB0AG0AbAAPAAoABABSAG8AQQByABIAPUFwcGxp
+			Y2F0aW9ucy9BTVBQUy93d3cvQXhDU3MvY3NzL29vY3NzL3RlbXBs
+			YXRlL3RlbXBsYXRlLmh0bWwAABMAAS8A//8AAA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Applications/AMPPS/www/AxCSs/css/oocss/template/template.html</string>
+			<key>RelativePath</key>
+			<string>../css/oocss/template/template.html</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -70,25 +203,136 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2012-01-10T05:16:00Z</date>
+			<date>2012-01-10T06:07:32Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAFkAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADLIEyzSCsAAAAiugQJc3R5bGUuY3NzAAAAAAAA
+				AAAAAAFcAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADLIEyzSCsAAAAiugQHYWxsLmNzcwAAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAACK6QcsxM7ZURVhUUipjaP//
+				AAAAAAAAAAAAAAAAAAAAACL0RMsxPj5URVhUUipjaP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA2NzcwAAEAAIAADL
-				IJMDAAAAEQAIAADLMXoGAAAAAQAUACK6BAAivZcACfjZ
-				AAm3qwAAAOkAAgA0Um9BcjpBcHBsaWNhdGlvbnM6AEFN
-				UFBTOgB3d3c6AEF4Q1NzOgBjc3M6AHN0eWxlLmNzcwAO
-				ABQACQBzAHQAeQBsAGUALgBjAHMAcwAPAAoABABSAG8A
-				QQByABIAKkFwcGxpY2F0aW9ucy9BTVBQUy93d3cvQXhD
-				U3MvY3NzL3N0eWxlLmNzcwATAAEvAP//AAA=
+				IJMDAAAAEQAIAADLMYSOAAAAAQAUACK6BAAivZcACfjZ
+				AAm3qwAAAOkAAgAyUm9BcjpBcHBsaWNhdGlvbnM6AEFN
+				UFBTOgB3d3c6AEF4Q1NzOgBjc3M6AGFsbC5jc3MADgAQ
+				AAcAYQBsAGwALgBjAHMAcwAPAAoABABSAG8AQQByABIA
+				KEFwcGxpY2F0aW9ucy9BTVBQUy93d3cvQXhDU3MvY3Nz
+				L2FsbC5jc3MAEwABLwD//wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Applications/AMPPS/www/AxCSs/css/style.css</string>
+				<string>file://localhost/Applications/AMPPS/www/AxCSs/css/all.css</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2012-01-10T06:07:25Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFqAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADLIEyzSCsAAAAiugQKbGF5b3V0LmNzcwAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAACLzd8sxPeJURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA2NzcwAAEAAIAADL
+				IJMDAAAAEQAIAADLMYQyAAAAAQAUACK6BAAivZcACfjZ
+				AAm3qwAAAOkAAgA1Um9BcjpBcHBsaWNhdGlvbnM6AEFN
+				UFBTOgB3d3c6AEF4Q1NzOgBjc3M6AGxheW91dC5jc3MA
+				AA4AFgAKAGwAYQB5AG8AdQB0AC4AYwBzAHMADwAKAAQA
+				UgBvAEEAcgASACtBcHBsaWNhdGlvbnMvQU1QUFMvd3d3
+				L0F4Q1NzL2Nzcy9sYXlvdXQuY3NzAAATAAEvAP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Applications/AMPPS/www/AxCSs/css/layout.css</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2012-01-10T05:59:38Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFwAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADLIEyzSCsAAAAiwfgHYWxsLmNzcwAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAACLFVMsxHlMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABW9vY3NzAAAQAAgA
+				AMsgkwMAAAARAAgAAMsxZKMAAAABABgAIsH4ACK6BAAi
+				vZcACfjZAAm3qwAAAOkAAgA5Um9BcjpBcHBsaWNhdGlv
+				bnM6AEFNUFBTOgB3d3c6AEF4Q1NzOgBjc3M6AG9vY3Nz
+				OgBhbGwuY3NzAAAOABAABwBhAGwAbAAuAGMAcwBzAA8A
+				CgAEAFIAbwBBAHIAEgAuQXBwbGljYXRpb25zL0FNUFBT
+				L3d3dy9BeENTcy9jc3Mvb29jc3MvYWxsLmNzcwATAAEv
+				AP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Applications/AMPPS/www/AxCSs/css/oocss/all.css</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2012-01-10T05:53:54Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFiAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADLIEyzSCsAAAAiugQIc3Bpbi5jc3MAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAACLr7MsxPAJURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA2NzcwAAEAAIAADL
+				IJMDAAAAEQAIAADLMYJSAAAAAQAUACK6BAAivZcACfjZ
+				AAm3qwAAAOkAAgAzUm9BcjpBcHBsaWNhdGlvbnM6AEFN
+				UFBTOgB3d3c6AEF4Q1NzOgBjc3M6AHNwaW4uY3NzAAAO
+				ABIACABzAHAAaQBuAC4AYwBzAHMADwAKAAQAUgBvAEEA
+				cgASAClBcHBsaWNhdGlvbnMvQU1QUFMvd3d3L0F4Q1Nz
+				L2Nzcy9zcGluLmNzcwAAEwABLwD//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Applications/AMPPS/www/AxCSs/css/spin.css</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2012-01-10T05:34:38Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGiAAIAAARSb0FyAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADLIEyzSCsAAAAiwksNdGVtcGxhdGUuaHRtbAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAACLCTcsxHlMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACHRlbXBsYXRlABAA
+				CAAAyyCTAwAAABEACAAAyzFkowAAAAEAHAAiwksAIsH4
+				ACK6BAAivZcACfjZAAm3qwAAAOkAAgBJUm9BcjpBcHBs
+				aWNhdGlvbnM6AEFNUFBTOgB3d3c6AEF4Q1NzOgBjc3M6
+				AG9vY3NzOgB0ZW1wbGF0ZToAdGVtcGxhdGUuaHRtbAAA
+				DgAcAA0AdABlAG0AcABsAGEAdABlAC4AaAB0AG0AbAAP
+				AAoABABSAG8AQQByABIAPUFwcGxpY2F0aW9ucy9BTVBQ
+				Uy93d3cvQXhDU3MvY3NzL29vY3NzL3RlbXBsYXRlL3Rl
+				bXBsYXRlLmh0bWwAABMAAS8A//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Applications/AMPPS/www/AxCSs/css/oocss/template/template.html</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -140,8 +384,8 @@
 	<key>ToolbarVisible:murenovich</key>
 	<true/>
 	<key>ViewSplitterPosition:murenovich</key>
-	<real>0.17690874636173248</real>
+	<real>0.12760241329669952</real>
 	<key>WindowFrame:murenovich:displays([(0, 0), (1920, 1080)])</key>
-	<string>rect(44,0,1001,1074)</string>
+	<string>rect(44,0,1001,1489)</string>
 </dict>
 </plist>
